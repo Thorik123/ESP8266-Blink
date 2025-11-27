@@ -9,5 +9,5 @@ void setup()
 void loop()
 {
     digitalWrite(LED_PIN, !digitalRead(LED_PIN));
-    delay(1000);
+    delay(500);
 }
