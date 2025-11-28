@@ -1,7 +1,7 @@
-d:\MY\ PROJECT\Latihan\ GIT\ESP8266-Blink\build\core\reboot_uart_dwnld.cpp.o: \
+D:\MY\ PROJECT\Latihan\ GIT\ESP8266-Blink\build\core\reboot_uart_dwnld.cpp.o: \
  C:\Users\Thorik\ Tronik\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.1.2\cores\esp8266\reboot_uart_dwnld.cpp \
  C:\Users\Thorik\ Tronik\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.1.2\cores\esp8266\CommonHFile.h \
- d:\MY\ PROJECT\Latihan\ GIT\ESP8266-Blink\build\core\ESP8266-Blink.ino.globals.h \
+ D:\MY\ PROJECT\Latihan\ GIT\ESP8266-Blink\build\core\ESP8266-Blink.ino.globals.h \
  C:\Users\Thorik\ Tronik\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.1.2\cores\esp8266\reboot_uart_dwnld.h \
  C:\Users\Thorik\ Tronik\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.1.2/tools/sdk/include/user_interface.h \
  C:\Users\Thorik\ Tronik\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.1.2/tools/sdk/include/os_type.h \

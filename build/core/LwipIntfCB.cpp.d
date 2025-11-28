@@ -1,7 +1,7 @@
-d:\MY\ PROJECT\Latihan\ GIT\ESP8266-Blink\build\core\LwipIntfCB.cpp.o: \
+D:\MY\ PROJECT\Latihan\ GIT\ESP8266-Blink\build\core\LwipIntfCB.cpp.o: \
  C:\Users\Thorik\ Tronik\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.1.2\cores\esp8266\LwipIntfCB.cpp \
  C:\Users\Thorik\ Tronik\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.1.2\cores\esp8266\CommonHFile.h \
- d:\MY\ PROJECT\Latihan\ GIT\ESP8266-Blink\build\core\ESP8266-Blink.ino.globals.h \
+ D:\MY\ PROJECT\Latihan\ GIT\ESP8266-Blink\build\core\ESP8266-Blink.ino.globals.h \
  C:\Users\Thorik\ Tronik\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.1.2\cores\esp8266/LwipIntf.h \
  C:\Users\Thorik\ Tronik\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.1.2/tools/sdk/lwip2/include/lwip/netif.h \
  C:\Users\Thorik\ Tronik\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\3.1.2/tools/sdk/lwip2/include/lwip/opt.h \

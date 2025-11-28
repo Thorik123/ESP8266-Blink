@@ -8,11 +8,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -45,11 +45,11 @@
    "-DFLASHMODE_DOUT",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\sketch\\ESP8266-Blink.ino.cpp",
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\sketch\\ESP8266-Blink.ino.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\sketch\\ESP8266-Blink.ino.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\sketch\\ESP8266-Blink.ino.cpp.o"
   ],
-  "file": "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\sketch\\ESP8266-Blink.ino.cpp"
+  "file": "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\sketch\\ESP8266-Blink.ino.cpp"
  },
  {
   "directory": "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink",
@@ -60,11 +60,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -99,7 +99,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Crypto.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Crypto.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Crypto.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Crypto.cpp"
  },
@@ -112,11 +112,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -151,7 +151,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Esp.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Esp.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Esp.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Esp.cpp"
  },
@@ -164,11 +164,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -203,7 +203,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Esp-version.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Esp-version.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Esp-version.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Esp-version.cpp"
  },
@@ -216,11 +216,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -255,7 +255,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Esp-frag.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Esp-frag.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Esp-frag.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Esp-frag.cpp"
  },
@@ -268,11 +268,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -307,7 +307,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\FS.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\FS.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\FS.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\FS.cpp"
  },
@@ -320,11 +320,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -359,7 +359,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\FSnoop.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\FSnoop.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\FSnoop.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\FSnoop.cpp"
  },
@@ -372,11 +372,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -411,7 +411,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\FunctionalInterrupt.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\FunctionalInterrupt.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\FunctionalInterrupt.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\FunctionalInterrupt.cpp"
  },
@@ -424,11 +424,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -463,7 +463,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\HardwareSerial.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\HardwareSerial.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\HardwareSerial.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\HardwareSerial.cpp"
  },
@@ -476,11 +476,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -515,7 +515,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\IPAddress.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\IPAddress.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\IPAddress.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\IPAddress.cpp"
  },
@@ -528,11 +528,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -567,7 +567,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\LwipDhcpServer-NonOS.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\LwipDhcpServer-NonOS.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\LwipDhcpServer-NonOS.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\LwipDhcpServer-NonOS.cpp"
  },
@@ -580,11 +580,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -619,7 +619,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\LwipDhcpServer.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\LwipDhcpServer.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\LwipDhcpServer.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\LwipDhcpServer.cpp"
  },
@@ -632,11 +632,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -671,7 +671,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\LwipIntf.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\LwipIntf.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\LwipIntf.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\LwipIntf.cpp"
  },
@@ -684,11 +684,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -723,7 +723,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\LwipIntfCB.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\LwipIntfCB.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\LwipIntfCB.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\LwipIntfCB.cpp"
  },
@@ -736,11 +736,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -775,7 +775,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\MD5Builder.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\MD5Builder.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\MD5Builder.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\MD5Builder.cpp"
  },
@@ -788,11 +788,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -827,7 +827,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Print.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Print.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Print.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Print.cpp"
  },
@@ -840,11 +840,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -879,7 +879,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Schedule.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Schedule.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Schedule.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Schedule.cpp"
  },
@@ -892,11 +892,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -931,7 +931,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\StackThunk.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\StackThunk.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\StackThunk.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\StackThunk.cpp"
  },
@@ -944,11 +944,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -983,7 +983,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Stream.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Stream.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Stream.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Stream.cpp"
  },
@@ -996,11 +996,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1035,7 +1035,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\StreamSend.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\StreamSend.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\StreamSend.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\StreamSend.cpp"
  },
@@ -1048,11 +1048,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1087,7 +1087,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Tone.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Tone.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Tone.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Tone.cpp"
  },
@@ -1100,11 +1100,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1139,7 +1139,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\TypeConversion.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\TypeConversion.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\TypeConversion.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\TypeConversion.cpp"
  },
@@ -1152,11 +1152,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1191,7 +1191,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Updater.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Updater.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\Updater.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\Updater.cpp"
  },
@@ -1204,11 +1204,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1243,7 +1243,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\WMath.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\WMath.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\WMath.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\WMath.cpp"
  },
@@ -1256,11 +1256,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1295,7 +1295,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\WString.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\WString.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\WString.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\WString.cpp"
  },
@@ -1308,11 +1308,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1347,7 +1347,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\abi.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\abi.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\abi.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\abi.cpp"
  },
@@ -1360,11 +1360,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1399,7 +1399,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\aes_unwrap.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\aes_unwrap.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\aes_unwrap.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\aes_unwrap.cpp"
  },
@@ -1412,11 +1412,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1451,7 +1451,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\base64.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\base64.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\base64.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\base64.cpp"
  },
@@ -1464,11 +1464,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1503,7 +1503,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\cbuf.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\cbuf.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\cbuf.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\cbuf.cpp"
  },
@@ -1516,11 +1516,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "-g",
    "-x",
@@ -1544,7 +1544,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\cont.S",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\cont.S.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\cont.S.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\cont.S"
  },
@@ -1557,11 +1557,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1596,7 +1596,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\cont_util.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\cont_util.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\cont_util.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\cont_util.cpp"
  },
@@ -1609,11 +1609,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1648,7 +1648,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_app_entry_noextra4k.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_app_entry_noextra4k.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_app_entry_noextra4k.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_app_entry_noextra4k.cpp"
  },
@@ -1661,11 +1661,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1700,7 +1700,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_eboot_command.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_eboot_command.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_eboot_command.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_eboot_command.cpp"
  },
@@ -1713,11 +1713,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1752,7 +1752,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_features.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_features.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_features.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_features.cpp"
  },
@@ -1765,11 +1765,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1804,7 +1804,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_flash_quirks.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_flash_quirks.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_flash_quirks.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_flash_quirks.cpp"
  },
@@ -1817,11 +1817,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1856,7 +1856,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_flash_utils.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_flash_utils.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_flash_utils.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_flash_utils.cpp"
  },
@@ -1869,11 +1869,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1908,7 +1908,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_i2s.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_i2s.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_i2s.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_i2s.cpp"
  },
@@ -1921,11 +1921,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -1960,7 +1960,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_main.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_main.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_main.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_main.cpp"
  },
@@ -1973,11 +1973,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2012,7 +2012,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_non32xfer.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_non32xfer.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_non32xfer.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_non32xfer.cpp"
  },
@@ -2025,11 +2025,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2064,7 +2064,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_noniso.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_noniso.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_noniso.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_noniso.cpp"
  },
@@ -2077,11 +2077,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2116,7 +2116,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_phy.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_phy.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_phy.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_phy.cpp"
  },
@@ -2129,11 +2129,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2168,7 +2168,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_postmortem.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_postmortem.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_postmortem.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_postmortem.cpp"
  },
@@ -2181,11 +2181,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2220,7 +2220,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_si2c.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_si2c.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_si2c.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_si2c.cpp"
  },
@@ -2233,11 +2233,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2272,7 +2272,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_sigma_delta.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_sigma_delta.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_sigma_delta.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_sigma_delta.cpp"
  },
@@ -2285,11 +2285,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2324,7 +2324,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_spi_utils.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_spi_utils.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_spi_utils.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_spi_utils.cpp"
  },
@@ -2337,11 +2337,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2376,7 +2376,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_timer.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_timer.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_timer.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_timer.cpp"
  },
@@ -2389,11 +2389,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2428,7 +2428,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_vm.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_vm.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_vm.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_vm.cpp"
  },
@@ -2441,11 +2441,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2480,7 +2480,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_waveform_phase.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_waveform_phase.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_waveform_phase.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_waveform_phase.cpp"
  },
@@ -2493,11 +2493,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2532,7 +2532,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_waveform_pwm.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_waveform_pwm.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_waveform_pwm.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_waveform_pwm.cpp"
  },
@@ -2545,11 +2545,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2584,7 +2584,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_wiring.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_wiring.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_wiring.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_wiring.cpp"
  },
@@ -2597,11 +2597,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2636,7 +2636,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_wiring_analog.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_wiring_analog.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_wiring_analog.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_wiring_analog.cpp"
  },
@@ -2649,11 +2649,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2688,7 +2688,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_wiring_digital.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_wiring_digital.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_wiring_digital.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_wiring_digital.cpp"
  },
@@ -2701,11 +2701,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2740,7 +2740,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_wiring_pulse.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_wiring_pulse.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_wiring_pulse.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_wiring_pulse.cpp"
  },
@@ -2753,11 +2753,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2792,7 +2792,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_wiring_pwm.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_wiring_pwm.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_wiring_pwm.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_wiring_pwm.cpp"
  },
@@ -2805,11 +2805,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2844,7 +2844,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_wiring_shift.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_wiring_shift.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\core_esp8266_wiring_shift.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\core_esp8266_wiring_shift.cpp"
  },
@@ -2857,11 +2857,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2896,7 +2896,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\crc32.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\crc32.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\crc32.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\crc32.cpp"
  },
@@ -2909,11 +2909,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -2948,7 +2948,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\debug.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\debug.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\debug.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\debug.cpp"
  },
@@ -2961,11 +2961,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "-g",
    "-x",
@@ -2989,7 +2989,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\exc-c-wrapper-handler.S",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\exc-c-wrapper-handler.S.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\exc-c-wrapper-handler.S.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\exc-c-wrapper-handler.S"
  },
@@ -3002,11 +3002,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3041,7 +3041,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\exc-sethandler.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\exc-sethandler.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\exc-sethandler.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\exc-sethandler.cpp"
  },
@@ -3054,11 +3054,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3093,7 +3093,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\flash_hal.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\flash_hal.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\flash_hal.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\flash_hal.cpp"
  },
@@ -3106,11 +3106,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3145,7 +3145,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\gdb_hooks.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\gdb_hooks.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\gdb_hooks.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\gdb_hooks.cpp"
  },
@@ -3158,11 +3158,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3197,7 +3197,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\heap.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\heap.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\heap.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\heap.cpp"
  },
@@ -3210,11 +3210,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3249,7 +3249,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\hwdt_app_entry.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\hwdt_app_entry.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\hwdt_app_entry.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\hwdt_app_entry.cpp"
  },
@@ -3262,11 +3262,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3301,7 +3301,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\libb64\\cdecode.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\libb64\\cdecode.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\libb64\\cdecode.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\libb64\\cdecode.cpp"
  },
@@ -3314,11 +3314,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3353,7 +3353,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\libb64\\cencode.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\libb64\\cencode.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\libb64\\cencode.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\libb64\\cencode.cpp"
  },
@@ -3366,11 +3366,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3405,7 +3405,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\libc_replacements.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\libc_replacements.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\libc_replacements.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\libc_replacements.cpp"
  },
@@ -3418,11 +3418,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3457,7 +3457,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\mmu_iram.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\mmu_iram.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\mmu_iram.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\mmu_iram.cpp"
  },
@@ -3470,11 +3470,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3509,7 +3509,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\reboot_uart_dwnld.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\reboot_uart_dwnld.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\reboot_uart_dwnld.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\reboot_uart_dwnld.cpp"
  },
@@ -3522,11 +3522,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3561,7 +3561,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\spiffs\\spiffs_cache.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\spiffs\\spiffs_cache.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\spiffs\\spiffs_cache.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\spiffs\\spiffs_cache.cpp"
  },
@@ -3574,11 +3574,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3613,7 +3613,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\spiffs\\spiffs_check.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\spiffs\\spiffs_check.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\spiffs\\spiffs_check.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\spiffs\\spiffs_check.cpp"
  },
@@ -3626,11 +3626,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3665,7 +3665,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\spiffs\\spiffs_gc.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\spiffs\\spiffs_gc.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\spiffs\\spiffs_gc.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\spiffs\\spiffs_gc.cpp"
  },
@@ -3678,11 +3678,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3717,7 +3717,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\spiffs\\spiffs_hydrogen.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\spiffs\\spiffs_hydrogen.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\spiffs\\spiffs_hydrogen.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\spiffs\\spiffs_hydrogen.cpp"
  },
@@ -3730,11 +3730,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3769,7 +3769,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\spiffs\\spiffs_nucleus.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\spiffs\\spiffs_nucleus.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\spiffs\\spiffs_nucleus.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\spiffs\\spiffs_nucleus.cpp"
  },
@@ -3782,11 +3782,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3821,7 +3821,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\spiffs_api.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\spiffs_api.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\spiffs_api.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\spiffs_api.cpp"
  },
@@ -3834,11 +3834,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3873,7 +3873,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\sqrt32.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\sqrt32.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\sqrt32.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\sqrt32.cpp"
  },
@@ -3886,11 +3886,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3925,7 +3925,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\stdlib_noniso.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\stdlib_noniso.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\stdlib_noniso.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\stdlib_noniso.cpp"
  },
@@ -3938,11 +3938,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -3977,7 +3977,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\time.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\time.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\time.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\time.cpp"
  },
@@ -3990,11 +3990,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -4029,7 +4029,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\uart.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\uart.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\uart.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\uart.cpp"
  },
@@ -4042,11 +4042,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cflags",
    "-std=gnu17",
@@ -4085,7 +4085,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\umm_malloc\\umm_info.c",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\umm_malloc\\umm_info.c.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\umm_malloc\\umm_info.c.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\umm_malloc\\umm_info.c"
  },
@@ -4098,11 +4098,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cflags",
    "-std=gnu17",
@@ -4141,7 +4141,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\umm_malloc\\umm_integrity.c",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\umm_malloc\\umm_integrity.c.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\umm_malloc\\umm_integrity.c.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\umm_malloc\\umm_integrity.c"
  },
@@ -4154,11 +4154,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cflags",
    "-std=gnu17",
@@ -4197,7 +4197,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\umm_malloc\\umm_local.c",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\umm_malloc\\umm_local.c.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\umm_malloc\\umm_local.c.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\umm_malloc\\umm_local.c"
  },
@@ -4210,11 +4210,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -4249,7 +4249,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\umm_malloc\\umm_malloc.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\umm_malloc\\umm_malloc.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\umm_malloc\\umm_malloc.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\umm_malloc\\umm_malloc.cpp"
  },
@@ -4262,11 +4262,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cflags",
    "-std=gnu17",
@@ -4305,7 +4305,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\umm_malloc\\umm_poison.c",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\umm_malloc\\umm_poison.c.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\umm_malloc\\umm_poison.c.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\umm_malloc\\umm_poison.c"
  },
@@ -4318,11 +4318,11 @@
    "-U__STRICT_ANSI__",
    "-D_GNU_SOURCE",
    "-DESP8266",
-   "@d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
+   "@D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core/build.opt",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/lwip2/include",
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/sdk/libc/xtensa-lx106-elf/include",
-   "-Id:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
+   "-ID:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build/core",
    "-c",
    "@C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2/tools/warnings/none-cppflags",
    "-Os",
@@ -4357,7 +4357,7 @@
    "-IC:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\variants\\d1_mini",
    "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\wpa2_eap_patch.cpp",
    "-o",
-   "d:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\wpa2_eap_patch.cpp.o"
+   "D:\\MY PROJECT\\Latihan GIT\\ESP8266-Blink\\build\\core\\wpa2_eap_patch.cpp.o"
   ],
   "file": "C:\\Users\\Thorik Tronik\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.1.2\\cores\\esp8266\\wpa2_eap_patch.cpp"
  }
